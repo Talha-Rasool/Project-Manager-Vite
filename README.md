@@ -1,8 +1,7 @@
+
 React Project Manager (Vite + React + Tailwind CSS):
 
- Entwickelte eine Projektmanagement-App mit Vite und React.js . 
-Hauptaspekte, die ich in diesem Projekt geübt habe, sind `useState`, 
-`useRef`, `Portals` und `Props`. In dieser Anwendung können Sie Ihre 
-täglichen Projekte und Aufgaben verwalten.. Experimentierte erstmals mit 
-"Tailwind CSS", um eine visuell ansprechende und effiziente Webanwendung 
-zu erstellen.
+Developed a project management app using Vite and React.js. Key aspects I practiced in
+this projectinclude useState, useRef, Portals, and Props.
+In this application, you can manage your daily projects and tasks. Experimented with "Tailwind CSS" for
+the first time to create a visually appealing and efficient web application.
